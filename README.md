@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
-- :mortar_board: I was graduated from ENSAI in Advanced statistical engineering & Data Science.
+- :mortar_board: I was graduated from ENSAI, a french engineering school, in Advanced statistical engineering & Data Science.
   
 - :handshake: I’m looking to collaborate on differents sectors. As a junior, I am motivated to work on various activities which need to collaborate with different engineers.
   
