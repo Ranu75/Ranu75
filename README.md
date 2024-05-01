@@ -4,6 +4,6 @@
   
 - :handshake: I’m looking to collaborate on differents sectors. As a junior, I am motivated to work on various activities which need to collaborate with different engineers.
   
-- :mag: I’m looking for Data Scientist job in Paris area.
+- :mag: I’m looking for Data Scientist job in France or Switzerland area.
   
 - 📫 How to reach me: kathirranujan@gmail.com
