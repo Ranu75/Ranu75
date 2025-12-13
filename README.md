@@ -7,3 +7,12 @@
 - :hospital: I’m Data Scientist at AP-HP. I am working in collaborating with the BNDMR (Rare disease national databank) to generate significant figures.
   
 - 📫 How to reach me: kathirranujan@gmail.com
+
+<h2>🛠️ Tech Stack & Tools</h2>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/R/R-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
