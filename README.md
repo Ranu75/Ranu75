@@ -1,4 +1,4 @@
-### Hello everyone 👋
+## Hello everyone 👋
 
 - :mortar_board: I was graduated from ENSAI, a french engineering school, in Advanced statistical engineering & Data Science.
   
@@ -8,7 +8,7 @@
   
 - 📫 How to reach me: kathirranujan@gmail.com
 
-<h2>🛠️ Tech Stack & Tools</h2>
+<h3>🛠️ Tech Stack & Tools</h3>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
