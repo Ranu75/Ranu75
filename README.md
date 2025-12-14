@@ -10,7 +10,6 @@
 
 <h4>🛠️ Tech Stack & Tools</h4>
 
-- 🛠️ Tech Stack & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
